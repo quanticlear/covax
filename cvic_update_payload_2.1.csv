@@ -1,6 +1,8 @@
 Vaccine Code Name,Manufacturing Country,Final Price per Dose,Doses per Course,Doses per Vial,Minimum Duration Between Doses,Durability of Immunity,Route,Cold-Chain Requirements,Packed Volume per Dose,Weight,Shelf Life,WHO Class of Shipping,HCW Time,AEFI Investigation Rate,Low Dead Space Syringe (0.3ml) AD,Syringe (0.5ml) AD,23G needle,"Alcohol Swab, Plaster, Dry Swabs",21G needle,Sodium Chloride 0.9 % ampule 10mls,RUP syringe (3ml),…,…,Sharps Disposal (5L),Vaccination Card,Electronic Records,No fault compensation fund,Medical mask,Alcohol-based hand rub (1L),Liquid soap and water,…,…,…,…,…,Eye protection,Face shield,…,…,…,Electronic temperature monitoring device,"Large, long range, cold box (20L)",Vaccine carrier (1.5L),Icepacks,X,X,X,X,X
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tozinameran (Comirnaty),Pfizer Europe MA EEIG,7,2,6,3,,IM (intramuscular),Ultra-cold (-60 to -80C),1.8,2,,,10,0,1.05,0,1.05,1.05,0.175,0.315,0.175,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
 mRNA-1273 (Moderna),Moderna Biotech,7,2,10,4,,IM (intramuscular),Frozen (-20C),4.3,2,,,10,0,0,1.05,1.05,1.05,0,0,0,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
 Ad26.COV2-S,Janssen-Cilag International,14,1,5,,,IM (intramuscular),Refrigerated (2 to 8C),3.82,2,,,10,0,0,1.05,1.05,1.05,0,0,0,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
@@ -13,8 +15,6 @@ CoronaVac (Pre-filled syringe),Sinovac Life Sciences,7,2,1,2,,IM (intramuscular)
 CoronaVac (Vial),Sinovac Life Sciences,7,2,1,2,,IM (intramuscular),Refrigerated (2 to 8C),16.3,15,,,10,0,0,1.05,1.05,1.05,0,0,0,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
 BBV152 (Covaxin) 20-dose vial,Bharat Biotech International,7,2,20,4,,IM (intramuscular),Refrigerated (2 to 8C),1.72,2,,,10,0,0,1.05,1.05,1.05,0,0,0,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
 NVX-CoV2373 (Nuvaxovid),Novavax,7,2,10,3,,IM (intramuscular),Refrigerated (2 to 8C),2.05,2,,,10,0,0,1.05,1.05,1.05,0,0,0,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 BNT162b2 (Comirnaty),Pfizer-BionTech,7,2,6,3,,IM (intramuscular),Ultra-cold (-60 to -80C),1.8,2,,,10,0,1.05,0,1.05,1.05,0.175,0.315,0.175,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
 ChAdOx1-S (COVISHIELD),AstraZeneca,7,2,10,8,,IM (intramuscular),Refrigerated (2 to 8C),2.109,2,,,10,0,0,1.05,1.05,1.05,0,0,0,0,0,0.01,1.05,1,0.05,,,,,,,,,,,,,,,,,,,,,,
